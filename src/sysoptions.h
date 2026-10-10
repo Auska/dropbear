@@ -66,7 +66,7 @@
 #define MIN_DSS_KEYLEN 1024
 #endif
 #ifndef MIN_RSA_KEYLEN
-#define MIN_RSA_KEYLEN 1024
+#define MIN_RSA_KEYLEN 512
 #endif
 
 #define MAX_BANNER_SIZE 2050 /* this is 25*80 chars, any more is foolish */
